@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tugas Tekotek</title>
+	<title>Tugas Tekotek PHP</title>
 </head>
 <body>
 	<?php
